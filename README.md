@@ -16,7 +16,7 @@ Each project includes:
 
 | Project | Description | Tools | Link |
 |--------|-------------|-------|------|
-| **BikeStores Sales Analysis** | Sales dashboard using SQL + Power BI with dynamic filters (by year, brand, store, etc.) | SQL Server, Power BI | [View Project](./BikeStores-Sales-Analysis) |
+| **BikeStores Sales Analysis** | Sales dashboard using SQL + Power BI with dynamic filters (by year, brand, store, etc.) | SQL Server, Power BI | [View Project](./BikeStores_Project) |
 <!-- | *(Coming soon)* Customer Segmentation | RFM analysis with Python and Power BI visualizations | Python, Power BI | – |
 | *(Coming soon)* Marketing Campaign Analysis | Measuring conversion and performance across campaigns | SQL, Power BI | – | -->
 
