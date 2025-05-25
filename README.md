@@ -34,3 +34,6 @@ Each project includes:
 ## 📬 Contact
 
 Feel free to explore the projects and reach out if you'd like to connect or collaborate!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/jean-ramos-aranda/)
+- 📧 Email: [jean.ramosar@gmail.com](mailto:jean.ramosar@gmail.com)
